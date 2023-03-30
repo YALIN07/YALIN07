@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="250" height="250" align="right">
 
 <!--
 **YALIN07/YALIN07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
