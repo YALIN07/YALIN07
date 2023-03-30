@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="C:\Users\yalin\Downloads">
+<img src="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">
 <!--
 **YALIN07/YALIN07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
